@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Franco Coria
 
-<!--
-**NekoBamBam/NekoBamBam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub 🚀
 
-Here are some ideas to get you started:
+## 📌 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de **Tecnicatura en Programación**
+- 💻 Apasionado por el desarrollo Web
+- 🎮 Me gusta crear proyectos relacionados con juegos y sistemas
+- 📚 Siempre aprendiendo algo nuevo sobre programación y tecnología
+
+## 💼 Tecnologías y herramientas
+
+- 👨‍💻 Lenguajes: `C`, `Python`, `JavaScript`
+- 🖥️ IDEs/Entornos: `VS Code`, `Code::Blocks`
+- 🔧 Herramientas: `Git`, `GitHub`, `Linux Terminal`
+
+## 📊 Estadísticas de GitHub
+
+![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoCoria&show_icons=true&theme=radical)
+
+## 📫 Cómo contactarme
+
+Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( nekozbambam@gmail.com )
+---
+
+> “Si tenes que escribir el codigo mas de una vez, entonces hacé una función” – el gran Seba Feltes
+
