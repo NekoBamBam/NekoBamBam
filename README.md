@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub 🚀
 
 ## 📊 Estadísticas de GitHub
 
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoCoria&show_icons=true&theme=radical)
+![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoBamBam&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme
 
