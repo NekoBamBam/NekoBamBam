@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub 🚀
 
 ## 📊 Estadísticas de GitHub
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tu_usuario)](https://github.com/NekoBamBam)
+![Franco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NekoBamBam&theme=radical)
 
 ## 📫 Cómo contactarme
 
