@@ -15,10 +15,6 @@ Bienvenido a mi perfil de GitHub 🚀
 - 🖥️ IDEs/Entornos: `VS Code`, `Code::Blocks`
 - 🔧 Herramientas: `Git`, `GitHub`, `Linux Terminal`
 
-## 📊 Estadísticas de GitHub
-
-![NekoBamBam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NekoBamBam&show_icons=true&theme=radical)
-
 ## 📫 Cómo contactarme
 
 Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( nekozbambam@gmail.com )
