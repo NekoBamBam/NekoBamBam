@@ -18,7 +18,6 @@ Bienvenido a mi perfil de GitHub 🚀
 ## 📫 Cómo contactarme
 
 Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( coriannicolas21@gmail.com )
-Portfolio Personal: https://nekobambam.github.io/portfolio/
 ---
 
 > “Si tenés que escribir el codigo mas de una vez, entonces hacé una función” – el gran Seba Feltes
