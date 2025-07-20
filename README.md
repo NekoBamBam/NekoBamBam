@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Franco Coria
+## 👋 ¡Hola! Soy Franco Nicolas Coria
 
 Bienvenido a mi perfil de GitHub 🚀
 
@@ -11,14 +11,15 @@ Bienvenido a mi perfil de GitHub 🚀
 
 ## 💼 Tecnologías y herramientas
 
-- 👨‍💻 Lenguajes: `C`, `Python`, `JavaScript`
+- 👨‍💻 Lenguajes: `C`, `Python`, `JavaScript`,`Css`
 - 🖥️ IDEs/Entornos: `VS Code`, `Code::Blocks`
 - 🔧 Herramientas: `Git`, `GitHub`, `Linux Terminal`
 
 ## 📫 Cómo contactarme
 
 Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( coriannicolas21@gmail.com )
+Portfolio Personal: https://nekobambam.github.io/portfolio/
 ---
 
-> “Si tenes que escribir el codigo mas de una vez, entonces hacé una función” – el gran Seba Feltes
+> “Si tenés que escribir el codigo mas de una vez, entonces hacé una función” – el gran Seba Feltes
 
