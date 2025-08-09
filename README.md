@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Franco Nicolas Coria
+## 👋 ¡Hola! Soy Coria Franco Nicolas 
 
 Bienvenido a mi perfil de GitHub 🚀
 
