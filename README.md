@@ -15,7 +15,7 @@ Bienvenido a mi perfil de GitHub 🚀
 - 🖥️ IDEs/Entornos: `VS Code`, `Code::Blocks`
 - 🔧 Herramientas: `Git`, `GitHub`, `Linux Terminal`
 
-![Total de Stars](https://github-readme-stats.vercel.app/api?username=NekoBamBam&show_icons=true&hide=commits,prs,issues,contribs&custom_title=⭐ Stars&theme=transparent)
+![GitHub User's stars](https://img.shields.io/github/stars/NekoBamBam?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars)
 
 ## 📫 Cómo contactarme
 
