@@ -15,9 +15,6 @@ Bienvenido a mi perfil de GitHub 🚀
 - 🖥️ IDEs/Entornos: `VS Code`, `Code::Blocks`
 - 🔧 Herramientas: `Git`, `GitHub`, `Linux Terminal`
 
-![trophy](https://github-profile-trophy.vercel.app/?username=NekoBamBam&title=Stars&theme=onedark)
-
-
 ## 📫 Cómo contactarme
 
 Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( coriannicolas21@gmail.com )
