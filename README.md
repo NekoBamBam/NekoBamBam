@@ -15,6 +15,8 @@ Bienvenido a mi perfil de GitHub 🚀
 - 🖥️ IDEs/Entornos: `VS Code`, `Code::Blocks`
 - 🔧 Herramientas: `Git`, `GitHub`, `Linux Terminal`
 
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NekoBamBam&show_icons=true&theme=radical)
+
 ## 📫 Cómo contactarme
 
 Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( coriannicolas21@gmail.com )
