@@ -21,7 +21,8 @@ Bienvenido a mi perfil de GitHub 🚀
   
 ## 📫 Cómo contactarme
 
-Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( coriannicolas21@gmail.com ) o visita mi portfolio personal https://coria-franco-nicolas.vercel.app/ 👨‍💻
+Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( coriannicolas21@gmail.com ). 
+O visita mi portfolio personal https://coria-franco-nicolas.vercel.app/ 👨‍💻
 ---
 
 > “Si tenés que escribir el codigo mas de una vez, entonces hacé una función” – el gran Seba Feltes 🧔🏻‍♂️
