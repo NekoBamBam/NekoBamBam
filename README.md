@@ -21,7 +21,7 @@ Bienvenido a mi perfil de GitHub 🚀
   
 ## 📫 Cómo contactarme
 
-Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( coriannicolas21@gmail.com ). 
+Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo personal ( coriannicolas21@gmail.com ). <br>
 O visita mi portfolio personal https://coria-franco-nicolas.vercel.app/ 👨‍💻
 ---
 
