@@ -11,7 +11,7 @@ Bienvenido a mi perfil de GitHub 🚀
 
 ## 💼 Tecnologías y herramientas
 
-- 👨‍💻 Lenguajes: `C`, `Python`, `JavaScript`,`Css`,`HTML`
+- 👨‍💻 Lenguajes: `C`, `Python`, `JavaScript`,`TypeScript`,`Css`,`HTML`
 - 🖥️ IDEs/Entornos: `VS Code`, `Code::Blocks`, `Windsurf`
 - 🔧 Herramientas: `Git`, `GitHub`, `Linux Terminal`, `Node.js`
 - 🧩 Frameworks/Librerías: `Django`,`React`,`React Native`
