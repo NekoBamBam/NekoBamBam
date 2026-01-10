@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub 🚀
 - 🧩 Frameworks/Librerías: `Django`,`React`,`React Native`
 - 🗄️ Bases de datos: `MySQL`, `SQLite`
 - 🔥 BaaS: `Firebase`, `Supabase`
-- 🚀 Hosting & Deploy: `Vercel`, `Render`
+- 🚀 Hosting & Deploy: `Vercel`, `Render`,`GitHub Pages`
   
 ## 📫 Cómo contactarme
 
