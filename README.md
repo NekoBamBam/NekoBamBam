@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub 🚀
 
 - 🎓 Estudiante de **Tecnicatura en Programación**
 - 💻 Apasionado por el desarrollo Web
-- 🎮 Me gusta crear proyectos relacionados con juegos y sistemas
+- 🎮 Me gusta crear proyectos relacionados con juegos, interacción y sistemas
 - 📚 Siempre aprendiendo algo nuevo sobre programación y tecnología
 
 ## 💼 Tecnologías y herramientas
@@ -25,5 +25,5 @@ Podés dejarme un mensaje desde el mismo GitHub o conectarte por mi correo perso
 O visita mi portfolio personal https://coria-franco-nicolas.vercel.app/ 👨‍💻
 ---
 
-> “Si tenés que escribir el codigo mas de una vez, entonces hacé una función” – el gran Seba Feltes 🧔🏻‍♂️
+> “Si tenés que escribir el codigo mas de una vez, entonces hacé una función” – el gran Seba Feltes 🧔🏻‍♂️.
 
