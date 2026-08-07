@@ -4,7 +4,7 @@ Bienvenido a mi perfil de GitHub 🚀
 
 ## 📌 Sobre mí
 
-- 🎓 Estudiante de **Tecnicatura en Programación**
+- 🎓 Estudiante de **Tecnicatura en Programación - UTN**
 - 💻 Apasionado por el desarrollo Web
 - 🎮 Me gusta crear proyectos relacionados con juegos, interacción y sistemas
 - 📚 Siempre aprendiendo algo nuevo sobre programación y tecnología
